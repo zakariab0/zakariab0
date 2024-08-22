@@ -22,32 +22,32 @@
 - ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.<br/>
 </p>
 
-<p align="center">
-    <h3 align="center">Profile Summary: </h3>
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=onedark">
-</p>
+<h3 align="center">Profile Summary: </h3>
+    <p align="center">
+        <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=onedark">
+    </p>
 
 <h3 align="center">Github Trophees: </h3>
-<p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=zakariab0&theme=onedark">
-</p>
+    <p align="center">
+        <img width="500" src="https://github-profile-trophy.vercel.app/?username=zakariab0&theme=onedark">
+    </p>
 
 <h3 align="center">Total contributions and streaks: </h3>
-<p align = "center">
-    <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
-</p>
+    <p align = "center">
+        <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
+    </p>
 
 <h3 align="center">📈 GitHub stats: </h3>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=monokai&rank_icon=github"/>
-</p>
+    <p align = "center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=monokai&rank_icon=github"/>
+    </p>
 
 <h3 align="center">Most used languages: </h3>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=monokai"/>
-</p>
+    <p align = "center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=monokai"/>
+    </p>
 
 <h1 align="center"> Random Joke</h1>
-<p align="center">
-    <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
-</p>
+    <p align="center">
+        <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
+    </p>
