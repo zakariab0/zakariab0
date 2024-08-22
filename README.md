@@ -16,9 +16,12 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<p align = "center">
 - 🔭 I’m currently working on many projects in different subjects. 
 - 🌱 I’m currently shaping my actual knowledge (mostly spring related). 
 - ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.
+</p>
+
 <p align="center">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=monokai">
 </p>
@@ -29,7 +32,7 @@
 
 <h3 align="center">Total contributions and streaks: </h3>
 <p align = "center">
-<img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
+    <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
 </p>
 
 <h1 align="center"> Random Joke</h1>
