@@ -28,8 +28,9 @@
 </p>
 
 <h3 align="center">Total contributions and streaks: </h3>
+<p align = "center">
 <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
-
+</p>
 
 <h1 align="center"> Random Joke</h1>
 <p align="center">
