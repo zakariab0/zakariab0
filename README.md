@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=monokai">
+    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=onedark">
 </p>
 
 <p align="center">
@@ -35,13 +35,15 @@
     <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
 </p>
 
-<h3 align="left">📈 GitHub stats: </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=react&rank_icon=github&card_width=300" alt="NadaMesbah"/>
+<p align = "center">
+<h3 align="center">📈 GitHub stats: </h3>
+<img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=monokai&rank_icon=github"/>
+</p>
 
-<h3 align="left">Most used languages: </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=react"/>
-<hr>
-
+<p align = "center">
+<h3 align="center">Most used languages: </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=monokai"/>
+</p>
 
 <h1 align="center"> Random Joke</h1>
 <p align="center">
