@@ -17,9 +17,9 @@
 </div>
 
 <p align = "center">
-- 🔭 I’m currently working on many projects in different subjects. 
-- 🌱 I’m currently shaping my actual knowledge (mostly spring related). 
-- ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.
+- 🔭 I’m currently working on many projects in different subjects. <br/>
+- 🌱 I’m currently shaping my actual knowledge (mostly spring related). <br/>
+- ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.<br/>
 </p>
 
 <p align="center">
