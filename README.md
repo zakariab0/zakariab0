@@ -3,21 +3,21 @@
 <p align="center">I Like To Trawl Around In Data Troves.</p>
 <h1 align="center"> </h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackgit a" alt="Python 3.11">
-  <img src="https://img.shields.io/badge/PHP-8.0.9-777BB4.svg?logo=php&logoColor=white" alt="PHP 8.2">
-  <img src="https://img.shields.io/badge/HTML-5-orange.svg?logo=html5&logoColor=white" alt="HTML 5">
-  <img src="https://img.shields.io/badge/CSS-3-blueviolet.svg?logo=css3&logoColor=white" alt="CSS 3">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript&logoColor=white" alt="JavaScript ES6">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-11-orange.svg" alt="C/C++ 11">
-  <img src="https://img.shields.io/badge/Bash-5.1-green.svg?logo=gnu-bash&logoColor=white" alt="Bash 5.1">
-  <img src="https://img.shields.io/badge/PowerShell-7.1-blueviolet.svg?logo=powershell&logoColor=white" alt="PowerShell 7.1">
-  <img src="https://img.shields.io/badge/Lua-5.4-blue.svg?logo=lua&logoColor=white" alt="Lua 5.4">
-  <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg" alt="GSC C.O.D">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackgit a">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-7.1-blueviolet.svg?logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-5.4-blue.svg?logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg">
 </div>
 
 - 🔭 I’m currently working on many projects in different subjects. 
 - 🌱 I’m currently shaping my actual knowledge (mostly spring related). 
-- ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest.
+- ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.
 <p align="center">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=monokai">
 </p>
