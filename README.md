@@ -15,15 +15,15 @@
   <img src="https://img.shields.io/badge/GSC-C.O.D-yellowgreen.svg" alt="GSC C.O.D">
 </div>
 
-- 🔭 I’m currently working on lots of projects. 
-- 🌱 I’m currently learning lots of things IOT related. 
-- ⚡ Fun fact: I Love To Automate Random Things Using Bash & Everything i code is a specific interest.
+- 🔭 I’m currently working on many projects in different subjects. 
+- 🌱 I’m currently shaping my actual knowledge (mostly spring related). 
+- ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest.
 <p align="center">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirCryptic&theme=monokai" alt="Null Security Team">
+    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=monokai">
 </p>
 
 <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=SirCryptic&theme=onedark" alt="Null Security Team">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=zakariab0&theme=onedark">
 </p>
 
 <h1 align="center"> Random Joke</h1>
