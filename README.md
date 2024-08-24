@@ -27,6 +27,12 @@
         <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariab0&theme=onedark">
     </p>
 
+<h3 align="center">Most used languages: </h3>
+    <p align = "center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=monokai"/>
+    </p>
+
+
 <h3 align="center">Github Trophees: </h3>
     <p align="center">
         <img width="500" src="https://github-profile-trophy.vercel.app/?username=zakariab0&theme=onedark">
@@ -42,10 +48,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=monokai&rank_icon=github"/>
     </p>
 
-<h3 align="center">Most used languages: </h3>
-    <p align = "center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariab0&layout=compact&theme=monokai"/>
-    </p>
 
 <h1 align="center"> Random Joke</h1>
     <p align="center">
