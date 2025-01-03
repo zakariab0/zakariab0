@@ -17,8 +17,8 @@
 </div>
 
 <p align = "center">
-- 🔭 I’m currently working on many projects in different subjects. <br/>
-- 🌱 I’m currently shaping my actual knowledge (mostly spring related). <br/>
+- 🔭 I’m currently working on my PhD thesis, focusing on detecting bot interactions on online platforms through user behavior analysis. <br/>
+- 🌱 I’m currently shaping my actual knowledge (mostly Selenium related). <br/>
 - ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.<br/>
 </p>
 
