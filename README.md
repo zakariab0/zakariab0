@@ -38,18 +38,12 @@
         <img width="500" src="https://github-profile-trophy.vercel.app/?username=zakariab0&theme=onedark">
     </p>
 
-<h3 align="center">Total contributions and streaks: </h3>
-    <p align = "center">
-        <img src="https://streak-stats.demolab.com?user=zakariab0&theme=onedark" alt="GitHub Streak" style="text-align: center"/>
-    </p>
-
 <h3 align="center">📈 GitHub stats: </h3>
     <p align = "center">
         <img src="https://github-readme-stats.vercel.app/api?username=zakariab0&show_icons=true&theme=monokai&rank_icon=github"/>
     </p>
 
-
-<h1 align="center"> Random Joke</h1>
+<h3 align="center"> Random Joke</h3>
     <p align="center">
         <img width="500" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke">
     </p>
