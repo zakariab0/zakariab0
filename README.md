@@ -3,7 +3,7 @@
 <p align="center">I Like coding what Others Couldn't.</p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kubakakauko/count.svg" />
+  <img src="https://profile-counter.glitch.me/zakariab0/count.svg" />
 </p>
 <h1 align="center"> </h1>
 <div align="center">
