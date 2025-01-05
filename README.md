@@ -1,6 +1,10 @@
 <h1 align="center">Salam Alaikoum 👋</h1>
 
 <p align="center">I Like coding what Others Couldn't.</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kubakakauko/count.svg" />
+</p>
 <h1 align="center"> </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackgit a">
