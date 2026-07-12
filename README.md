@@ -1,10 +1,6 @@
 <h1 align="center">Salam Alaikoum 👋</h1>
 
 <p align="center">I Like coding what Others Couldn't.</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zakariab0/count.svg" />
-</p>
 <h1 align="center"> </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackgit a">
@@ -21,7 +17,6 @@
 </div>
 
 <p align = "center">
-- 🔭 I’m currently working on my PhD thesis, focusing on detecting bot interactions on online platforms through user behavior analysis. <br/>
 - 🌱 I’m currently shaping my actual knowledge (mostly Selenium related). <br/>
 - ⚡ Fun fact: I Love To Automate Random Things Using Python & Everything i code is a specific interest aswell as Pixel Drawing.<br/>
 </p>
